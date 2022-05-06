@@ -17,17 +17,3 @@ class Assignment_4
 }
 
 
-/*
-public class Master {
-    public static void main(String[] args) {
-        AccountOverDrawDemo acc = new AccountOverDSrawDemo();
-        Thread one = new Thread(acc);
-        Thread two = new Thread(acc);
-        one.setName("Pratham");
-        two.setName("Prachi");
-        two.setPriority(10);
-        one.start();
-        two.start();
-    }
-}
-*/
